@@ -16,7 +16,7 @@ export default class App extends Component {
          	<Router>
             <div>
               <h1>Fernando Baura</h1>
-              <h2>Full Stack Final Project</h2>
+              <h2>Full Stack Final Project (FB-Final)</h2>
               <NavigationComponent />
 
               <Switch>
